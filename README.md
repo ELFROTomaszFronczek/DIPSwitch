@@ -21,4 +21,7 @@ The mask can be of the OR type - when some switch or switches must be set to 1. 
 <h3>ADD A NUMBER</h3>
 Adding a number is easier to understand than a mask. E.g. installation of a digital intercom in a block of flats. In the selected frame there are numbers from 1 to 10, but due to the programmed system, e.g. support for multiple blocks, etc., numbers from 100 must be programmed physically.
 <hr>
-Both options are independent. They can also be used together. In the case type, however, the application of the mask takes precedence over the added number. The number is added first, then the mask is applied to it.
+Both options are independent. They can also be used together. In the case type, however, the application of the mask takes precedence over the added number. The number is added first, then the mask is applied to it. Example:
+<br>
+<img src="img/img3.png"><br>
+<h3>(c)'2019 ELFRO Tomasz Fronczek</h3>
