@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Dip_Switch_Konfigurator">Dip Switch Konfigurator</string>
+    <string name="app_name">DipSwitchKonfig</string>
+    <string name="liczba_hex">Liczba HEX:</string>
+    <string name="numer_mieszkania_numer_modu_u_itp">Numer mieszkania, Numer modułu itp...</string>
+    <string name="_0">0</string>
+    <string name="wymagana_liczba">Wymagana liczba:</string>
+    <string name="zastosuj_mask">Zastosuj maskę:</string>
+    <string name="liczba_dec">Liczba DEC:</string>
+    <string name="dodaj_liczb">Dodaj liczbę:</string>
+    <string name="jumper">Jumper</string>
+    <string name="dip_switch">Dip Switch</string>
+    <string name="styl">Styl:</string>
+    <string name="liczby_z_zakresu_0_255_nprzekroczenie_zakresu_liczba_zostanie_obci_ta_do_255">Liczby z zakresu 0-255. Przekroczenie zakresu - liczba zostanie obcięta do 255</string>
+    <string name="liczba_bin">Liczba BIN:</string>
+    <string name="addedNumber">(z dodaną liczbą)</string>
+    <string name="addedMask">(z dodaną maską)</string>
+    <string name="addedNumberAndMask">(z dodaną liczbą i maską)</string>
+    <string name="EnterCorrectNumber">Podaj poprawną liczbę do dodania !!</string>
+    <string name="EnterCorrectMask">Podaj poprawną maskę !!</string>
+</resources>

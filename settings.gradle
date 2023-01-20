@@ -1,0 +1,2 @@
+include ':dip_switch'
+rootProject.name='dipswitch'

@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="Dip_Switch_Konfigurator">Dip Switch Configuration</string>
+    <string name="liczba_bin">Number BIN:</string>
+    <string name="liczba_hex">Number HEX:</string>
+    <string name="numer_mieszkania_numer_modu_u_itp" tools:ignore="TypographyEllipsis">Apartment number, module number etc...</string>
+    <string name="_0">0</string>
+    <string name="wymagana_liczba">Required number:</string>
+    <string name="zastosuj_mask">Apply the mask:</string>
+    <string name="liczba_dec">Number DEC:</string>
+    <string name="dodaj_liczb">Add number:</string>
+    <string name="jumper">Jumper</string>
+    <string name="dip_switch">Dip Switch</string>
+    <string name="styl">Style:</string>
+    <string name="app_name">DipSwitchKonfig</string>
+    <string name="liczby_z_zakresu_0_255_nprzekroczenie_zakresu_liczba_zostanie_obci_ta_do_255" tools:ignore="TypographyDashes">Numbers in the range 0-255. Exceeding the range - the number will be truncated to 255</string>
+    <string name="addedNumber">(with added number)</string>
+    <string name="addedMask">(with added mask)</string>
+    <string name="addedNumberAndMask">(with added number and mask)</string>
+    <string name="EnterCorrectNumber">Enter the correct number!!</string>
+    <string name="EnterCorrectMask">Enter the correct mask!!</string>
+</resources>
